@@ -10,7 +10,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 100%;
     width: 100%;
 }
 
@@ -23,6 +23,7 @@
     width: 80%;
     border-radius: 20px;
     box-shadow: 5px 5px 10px #000000;
+    margin: 40px 0;
 }
 
 .container h1 {
